@@ -1,2 +1,4 @@
 # novo0
+
+ ESTE ARQUIVO MOSTRA O USO DO README.
 teste1
